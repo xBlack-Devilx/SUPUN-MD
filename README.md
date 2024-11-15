@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>🦋 Supun Md Whatsapp Bot 🦋</h1>
-<img src="https://widipe.com/file/y7htosehYKNo.jpg" width="250" height="250">
+<img src="https://github.com/mrsupunfernando12/SUPUN-MD/blob/main/data/image/jdw.png" width="300" height="300">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Supun...;Created+by+SupunFernando...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Supum+Md..."

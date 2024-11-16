@@ -64,17 +64,18 @@ ____________________
 
 . If You don't have a account in Github. Create a account.
     <br>
+<p align="left">    
 <a href='https://github.com/' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/< width=150 height=40/p></a>
 
 ## ✨Deploy to Panel❤️ 
 
+<p align="left">
 <a href='https://bot-hosting.net/panel/' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/bot-host ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=40/p></a>
 
-# _Npm Run Command_
-
-``
+_Npm Run Command_
+```
 /usr/local/bin/yarn install
-``
+```
  <div align="center">
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>

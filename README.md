@@ -1,121 +1,177 @@
-***
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SUPUN-MD;MADE+BY+DARK+SHADOW+MODZ" alt="Typing SVG" /></a>
-
-***
-
-<p align = center>   <img src="https://github.com/mrsupunfernando12/SUPUN-MD/blob/main/data/image/jdw.png"</p>
-<p align="center">
-
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSahasTech22%2FSAHAS-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+# _Supun-multi-device_
+## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
   
-  </a>
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD/fork">
-    <img src="https://img.shields.io/github/forks/mrsupunfernando12/SUPUN-MD?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/mrsupunfernando12/SUPUN-MD?style=social">
-  </a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"> 
+<u>⚡ A simple WhatsApp User Bot Coded By Mr.Supun Fernando ⚡</u>
 </p>
-
+<img src="https://github.com/mrsupunfernando1/cyber-supun-md-file/blob/main/Assets/mrsupun_md.jpg"/>       
 <p align="center">
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://img.shields.io/github/repo-size/mrsupunfernando12/SUPUN-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines= │𝐂𝐘𝐁𝜩𝐑+│𝐒𝐔𝐏𝐔𝐍+│𝐌𝐃+│𝐕1 ; 𝐌𝐔𝐋𝐓𝐈 +𝐃𝐄𝐕𝐈𝐂𝐄 +𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 +𝐁𝐎𝐓 ;𝐅𝐎𝐑𝐖𝐎𝐀𝐃 +𝐁𝐘 +𝐃𝐒 +𝐌𝐎𝐃𝐙;𝐁𝐘 +𝐌𝐑.+𝐒𝐔𝐏𝐔𝐍 +𝐅𝐄𝐑𝐍𝐀𝐍𝐃𝐎" alt="Typing SVG" /></a>
+</p>   
 
-  </a>
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://img.shields.io/github/license/mrsupunfernando12/SUPUN-MD?color=purple&label=License&style=plastic">
+<br>
 
-  </a>
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://img.shields.io/github/languages/top/mrsupunfernando12/SUPUN-MD?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://github.com/mrsupunfernando12/SUPUN-MD">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-WHITE%20DEVIL%20TEAM%20-purple&style=plastic">
-
-  </a>
+<div align="left">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖡𝖮𝖳+𝖨𝖭𝖥𝖮)](https://git.io/typing-svg) </div>
+  
+  
+<p align="center">
+<a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/manulofficial7?color=red&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manu-MD-V6?color=blue&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manu-MD-V6?color=red&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manu-MD-V6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V6"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V6/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manu-MD-V6?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanulofficial7%2FManu-MD-V6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Manu-MD-V6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+
+<br>
  
-***
-
-
-<h2 align="center">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
-
 <p align="center">
-<a href='https://github.com/mrsupunfernando12/SUPUN-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center">
-<a href='https://sahas-md-pair-web-var0.onrender.com' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 - 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
-
-***
-
-
-<h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2Fvishwamihiranga%2FBHASHI-MD&instance_type=free&regions=fra&env[SESSION_ID]=your_default_session_id&env[MONGODB]=your_default_mongodb_url&env[PREFIX]=.&env[mode]=public&env[OWNER_NUMBER]=94702481115&env[ALIVE_IMG]=your_default_alive_image_url&env[ALIVE_MSG]=I%20am%20alive!&env[AUTO_VOICE]=false&env[ANTI_BAD_WORDS_ENABLED]=true&env[AUTO_READ_STATUS]=true&env[ANTI_BAD_WORDS]=pakayo,huththo&env[ANTI_LINK]=false&env[ALWAYS_ONLINE]=false&env[ALWAYS_TYPING]=false&env[ALWAYS_RECORDING]=false&env[ANTI_BOT]=true&env[ANTI_DELETE]=true&env[packname]=🪄BHASHI&env[author]=BHASHI%20x%20VISHWA&env[OPENWEATHER_API_KEY]=2d61a72574c11c4f36173b627f8cb177&env[ELEVENLABS_API_KEY]=sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3&env[SHODAN_API]=cbCkidr6qd7AFVaYs56MuCouGfM8gFki&env[PEXELS_API_KEY]=39WCzaHAX939xiH22NCddGGvzp7cgbu1VVjeYUaZXyHUaWlL1LFcVFxH&env[OMDB_API_KEY]=76cb7f39&env[PIXABAY_API_KEY]=23378594-7bd620160396da6e8d2ed4d53&env[ZIPCODEBASE_API_KEY]=0f94a5f0-6ea4-11ef-81da-579be4fb031c&env[GOOGLE_API_KEY]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[GOOGLE_CX]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[PASTEBIN_API_KEY]=uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn&dockerfile=./Dockerfile
-' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-koyeb deploy-blue?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> <h6>
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
-
-<p align="center">
-  <a href='https://github.com/mrsupunfernando12/SUPUN-MD/blob/main/WORKFLOW.md' target="_blank">
-    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
-  </a>
-
-
-
- 
-
-
-***
-
-<h2 align="center">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
-  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
-  Please note that accounts can only be unbanned once.
+<a href="#"><img title="sapot" src="https://img.shields.io/badge/Supun-Fernando-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p style="text-align: center; font-size: 1.2em;">
-  I am not responsible for any actions leading to the banning of your account. 
-  Use at your own risk, keeping this warning in mind.
+</p>
+<p align="center">
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Mr.Supun Fernando-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center"> 
+<u>🌺 ＣＹＢＥＲ-ＳＵＰＵＮ-ＭＤ 🌺</u>
 </p>
 
-***
-<h2 align="center">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Not For Sale</strong><br>
-  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
-  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
-  - Wishing you a wonderful day ahead! 
-</p>
-    
-***
+.[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌾](https://youtube.com/@darkshadow_modz)
+
+[𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌷](https://whatsapp.com/channel/0029VaXRYlrKwqSMF7Tswi38)
+
+[𝘖𝘞𝘕𝘌𝘙 𝘊𝘖𝘕𝘛𝘈𝘊𝘛💗🌼](https://wa.me/+94718461889?text=𝖬𝗋.𝖲𝗎𝗉𝗎𝗇_𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈|🐣💕🔗🌸)
+
+
+____________________
+<br>
+
+<div align="left">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖲𝖤𝖲𝖲𝖨𝖮𝖭+𝖨𝖣)](https://git.io/typing-svg) </div>
+  
+<div align="center">
+
+<a href='https://replit.com/@slsachith93/oror?v=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
+   
+   <br>
 
 </div>
 
 
+<div align="left">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸+𝖬𝖤𝖳𝖧𝖮𝖣)](https://git.io/typing-svg) </div>
+
+
+#### ✨DEPLOY TO GITHUB❤️ 
+
+. If You don't have a account in Github. Create a account.
+    <br>
+<a href='https://github.com/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ # Copy This Code For Github Workflow 
+
+https://github.com/manulofficial7/GitHub-Workflow-Code
+
+## ✨Deploy to Heroku❤️ 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manu-MD-V6)
+
+# ✨Install Manually 👇
+
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+
+###  Deploy on VPS or PC (Example here as in Ubuntu)
+
+#### Install with Script
+
+- Run the following command:
+  ```sh
+  bash <(curl -fsSL http://bit.ly/43JqREw)
+  ```
+
+#### Install without Script
+
+1. **Install Git, ffmpeg, and curl:**
+   ```sh
+   sudo apt -y update && sudo apt -y upgrade
+   sudo apt -y install git ffmpeg curl
+   ```
+
+2. **Install Node.js:**
+   ```sh
+   curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+   sudo -E bash nodesource_setup.sh
+   sudo apt-get install -y nodejs
+   ```
+
+3. **Install Yarn:**
+   ```sh
+   sudo npm install -g yarn
+   ```
+
+4. **Install pm2:**
+   ```sh
+   sudo yarn global add pm2
+   ```
+
+5. **Clone Repository and Install Packages:**
+   ```sh
+   git clone https://github.com/manulofficial7/Manu-MD-V6 Manu-MD
+   cd Manu-MD
+   yarn install
+   ```
+<br>
+
+6. **Start and Stop the Bot:**
+   - To start the bot:
+     ```sh
+     pm2 start . --name Manu-MD --attach --time
+     ```
+   - To stop the bot:
+     ```sh
+     pm2 stop Manu-MD
+     ```
+
+ <div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ 
+ <br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+` │𝐂𝐘𝐁𝜩𝐑│𝐒𝐔𝐏𝐔𝐍│𝐌𝐃│𝐕1 - 𝖡𝗒 ©𝖬𝗋.𝖲𝗎𝗉𝗎𝗇 𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈`
+
+`𝖥𝗈𝗋𝗐𝖺𝗋𝖽 𝖡𝗒 𝖣𝖺𝗋𝗄 𝖲𝗁𝖺𝖽𝗈𝗐 𝖬𝗈𝖽𝗓`
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.``
+
+<br>
+
+ <div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋;𝔹𝕐 +𝕄ℝ.+𝕊𝕌ℙ𝕌ℕ +𝔽𝔼ℝℕ𝔸ℕ𝔻𝕆;𝔽𝕆ℝ𝕎𝔸ℝ𝔻 +𝔹𝕐 +𝔻𝔸ℝ𝕂 +𝕊ℍ𝔸𝔻𝕆𝕎 +𝕄𝕆𝔻ℤ)](https://git.io/typing-svg) </div>
+
+
+
+`Released date:- 2024.08.24`
+<br>
+`latest updated date:- 2024.07.14`

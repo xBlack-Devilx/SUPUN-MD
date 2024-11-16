@@ -4,14 +4,14 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By Mr.Supun Fernando ⚡</u>
 </p>
 <img src="https://github.com/mrsupunfernando1/cyber-supun-md-file/blob/main/Assets/mrsupun_md.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines= │𝐂𝐘𝐁𝜩𝐑+│𝐒𝐔𝐏𝐔𝐍+│𝐌𝐃+│𝐕1 ; 𝐌𝐔𝐋𝐓𝐈 +𝐃𝐄𝐕𝐈𝐂𝐄 +𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 +𝐁𝐎𝐓 ;𝐅𝐎𝐑𝐖𝐎𝐀𝐃 +𝐁𝐘 +𝐃𝐒 +𝐌𝐎𝐃𝐙;𝐁𝐘 +𝐌𝐑.+𝐒𝐔𝐏𝐔𝐍 +𝐅𝐄𝐑𝐍𝐀𝐍𝐃𝐎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines= │𝐒𝐔𝐏𝐔𝐍+│𝐌𝐃+│𝐕1 ; 𝐌𝐔𝐋𝐓𝐈 +𝐃𝐄𝐕𝐈𝐂𝐄 +𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 +𝐁𝐎𝐓 ;𝐅𝐎𝐑𝐖𝐎𝐀𝐃 +𝐁𝐘 +𝐃𝐒 +𝐌𝐎𝐃𝐙;𝐁𝐘 +𝐌𝐑.+𝐒𝐔𝐏𝐔𝐍 +𝐅𝐄𝐑𝐍𝐀𝐍𝐃𝐎" alt="Typing SVG" /></a>
 </p>   
 
 <br>
@@ -22,12 +22,12 @@
   
   
 <p align="center">
-<a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/manulofficial7?color=red&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manu-MD-V6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manu-MD-V6?color=blue&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manu-MD-V6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manu-MD-V6?color=red&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manu-MD-V6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manu-MD-V6?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manu-MD-V6"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/manulofficial7/Manu-MD-V6/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manu-MD-V6?style=flat-square&color=green"></a>
+<a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/supunfernando12?color=red&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manu-MD-V6?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manu-MD-V6?color=red&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manu-MD-V6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manu-MD-V6?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanulofficial7%2FManu-MD-V6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Manu-MD-V6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -42,10 +42,10 @@
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Mr.Supun Fernando-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center"> 
-<u>🌺 ＣＹＢＥＲ-ＳＵＰＵＮ-ＭＤ 🌺</u>
+<u>🌺 ＳＵＰＵＮ-ＭＤ 🌺</u>
 </p>
 
-.[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌾](https://youtube.com/@darkshadow_modz)
+.[𝘠𝘖𝘜𝘛𝘜𝘉𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌾](https://youtube.com/@darkshadow_zap?si=ExRb57DCOeKcysSt)
 
 [𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘊𝘏𝘈𝘕𝘕𝘌𝘓💗🌷](https://whatsapp.com/channel/0029VaXRYlrKwqSMF7Tswi38)
 
@@ -54,19 +54,6 @@
 
 ____________________
 <br>
-
-<div align="left">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖲𝖤𝖲𝖲𝖨𝖮𝖭+𝖨𝖣)](https://git.io/typing-svg) </div>
-  
-<div align="center">
-
-<a href='https://replit.com/@slsachith93/oror?v=1' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
-   
-   <br>
-
-</div>
-
 
 <div align="left">
      
@@ -81,11 +68,11 @@ ____________________
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  # Copy This Code For Github Workflow 
 
-https://github.com/manulofficial7/GitHub-Workflow-Code
+https://github.com/mrsupunfernando12/GitHub-Workflow-Code
 
-## ✨Deploy to Heroku❤️ 
+## ✨Deploy to Panel❤️ 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manu-MD-V6)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrsupunfernando12/SUPUN-MD)
 
 # ✨Install Manually 👇
 
@@ -132,8 +119,8 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/manulofficial7/Manu-MD-V6 Manu-MD
-   cd Manu-MD
+   git clone https://github.com/mrsupunfernando12/SUPUN-MD 
+   cd SUPUN-MD
    yarn install
    ```
 <br>
@@ -141,22 +128,22 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 6. **Start and Stop the Bot:**
    - To start the bot:
      ```sh
-     pm2 start . --name Manu-MD --attach --time
+     pm2 start . --name SUPUN-MD --attach --time
      ```
    - To stop the bot:
      ```sh
-     pm2 stop Manu-MD
+     pm2 stop SUPUN-MD
      ```
 
  <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
  
  <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-` │𝐂𝐘𝐁𝜩𝐑│𝐒𝐔𝐏𝐔𝐍│𝐌𝐃│𝐕1 - 𝖡𝗒 ©𝖬𝗋.𝖲𝗎𝗉𝗎𝗇 𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈`
+` │𝐒𝐔𝐏𝐔𝐍│𝐌𝐃│𝐕1 - 𝖡𝗒 ©𝖬𝗋.𝖲𝗎𝗉𝗎𝗇 𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈`
 
 `𝖥𝗈𝗋𝗐𝖺𝗋𝖽 𝖡𝗒 𝖣𝖺𝗋𝗄 𝖲𝗁𝖺𝖽𝗈𝗐 𝖬𝗈𝖽𝗓`
 
@@ -166,12 +153,6 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
 <br>
 
- <div align="center">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋;𝔹𝕐 +𝕄ℝ.+𝕊𝕌ℙ𝕌ℕ +𝔽𝔼ℝℕ𝔸ℕ𝔻𝕆;𝔽𝕆ℝ𝕎𝔸ℝ𝔻 +𝔹𝕐 +𝔻𝔸ℝ𝕂 +𝕊ℍ𝔸𝔻𝕆𝕎 +𝕄𝕆𝔻ℤ)](https://git.io/typing-svg) </div>
-
-
-
-`Released date:- 2024.08.24`
+`Released date:- 2024.11.16`
 <br>
-`latest updated date:- 2024.07.14`
+`latest updated date:- 2024.11.16`

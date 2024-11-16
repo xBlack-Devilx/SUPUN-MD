@@ -9,7 +9,7 @@
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By Mr.Supun Fernando ⚡</u>
 </p>
-<img src="https://github.com/mrsupunfernando1/cyber-supun-md-file/blob/main/Assets/mrsupun_md.jpg"/>       
+<img src="https://github.com/mrsupunfernando12/SUPUN-MD/blob/main/data/image/jdw.png"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines= │𝐒𝐔𝐏𝐔𝐍+│𝐌𝐃+│𝐕1 ; 𝐌𝐔𝐋𝐓𝐈 +𝐃𝐄𝐕𝐈𝐂𝐄 +𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 +𝐁𝐎𝐓 ;𝐅𝐎𝐑𝐖𝐎𝐀𝐃 +𝐁𝐘 +𝐃𝐒 +𝐌𝐎𝐃𝐙;𝐁𝐘 +𝐌𝐑.+𝐒𝐔𝐏𝐔𝐍 +𝐅𝐄𝐑𝐍𝐀𝐍𝐃𝐎" alt="Typing SVG" /></a>
 </p>   
@@ -23,13 +23,13 @@
   
 <p align="center">
 <a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/supunfernando12?color=red&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manu-MD-V6?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manu-MD-V6?color=red&style=flat-square"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manu-MD-V6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrsupunfernando12/SUPUN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrsupunfernando12/SUPUN-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrsupunfernando12/SUPUN-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/mrsupunfernando12/SUPUN-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/mrsupunfernando12/SUPUN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manu-MD-V6?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanulofficial7%2FManu-MD-V6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Manu-MD-V6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrsupunfernando12/SUPUN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrsupunfernando12/SUPUN-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsupunfernando12%2FSUPUN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/SUPUN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <br>
@@ -64,77 +64,17 @@ ____________________
 
 . If You don't have a account in Github. Create a account.
     <br>
-<a href='https://github.com/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- # Copy This Code For Github Workflow 
-
-https://github.com/mrsupunfernando12/GitHub-Workflow-Code
+<a href='https://github.com/' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/< width=150 height=40/p></a>
 
 ## ✨Deploy to Panel❤️ 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrsupunfernando12/SUPUN-MD)
+<a href='https://bot-hosting.net/panel/' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/bot-host ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=40/p></a>
 
-# ✨Install Manually 👇
+# _Npm Run Command_
 
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-
-###  Deploy on VPS or PC (Example here as in Ubuntu)
-
-#### Install with Script
-
-- Run the following command:
-  ```sh
-  bash <(curl -fsSL http://bit.ly/43JqREw)
-  ```
-
-#### Install without Script
-
-1. **Install Git, ffmpeg, and curl:**
-   ```sh
-   sudo apt -y update && sudo apt -y upgrade
-   sudo apt -y install git ffmpeg curl
-   ```
-
-2. **Install Node.js:**
-   ```sh
-   curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-   sudo -E bash nodesource_setup.sh
-   sudo apt-get install -y nodejs
-   ```
-
-3. **Install Yarn:**
-   ```sh
-   sudo npm install -g yarn
-   ```
-
-4. **Install pm2:**
-   ```sh
-   sudo yarn global add pm2
-   ```
-
-5. **Clone Repository and Install Packages:**
-   ```sh
-   git clone https://github.com/mrsupunfernando12/SUPUN-MD 
-   cd SUPUN-MD
-   yarn install
-   ```
-<br>
-
-6. **Start and Stop the Bot:**
-   - To start the bot:
-     ```sh
-     pm2 start . --name SUPUN-MD --attach --time
-     ```
-   - To stop the bot:
-     ```sh
-     pm2 stop SUPUN-MD
-     ```
-
+``
+/usr/local/bin/yarn install
+``
  <div align="center">
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>

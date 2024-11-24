@@ -1,10 +1,10 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //aumto presence update
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = true //auto block 212 (true to on, false to off)
-global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/supunpic1.jpg")
@@ -12,13 +12,13 @@ global.ig = '@darkshadow_modz'
 global.yt = 'Dark Shadow Modz'
 global.ttowner = '@darkshadow_modz'
 global.ownername = 'Supun Fernando'
-global.owner = ['94718461889'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '94718461889'
-global.socialm = 'GitHub: - mrsupunfernando12'
+global.owner = ['94776860011'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '94776860011'
+global.socialm = 'GitHub: - xBlack-Devilx'
 global.location = 'srilankan' 
 //========================setting Payment=====================\\
-global.nodana = '6285892928715' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '6285892928715' // KOSONG KAN JIKA TIDAK ADA 
+global.nodana = '94776860011' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '94776860011' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = 'kosong' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
 global.andana = 'Danzxd' // KOSONG KAN JIKA TIDAK ADA
@@ -30,21 +30,21 @@ global.supuncaptain2 = "> ʙʏ ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ ᴍᴏᴅᴢ"
 //==================setting bot===========================\\
 global.botname = "SUPUN-MD"
 global.botname2 = "Sυρυɳ-Mԃ"
-global.ownernumber = '94718461889'
-global.botnumber = '94718461889'
-global.ownername = 'Supun Fernando'
+global.ownernumber = '94776860011'
+global.botnumber = '94776860011'
+global.ownername = 'GOD | SETH'
 global.creditMd = 'Dark Shadow Modz'
-global.ownerNumber = ["94718461889@s.whatsapp.net"]
+global.ownerNumber = ["94776860011@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = "https://whatsapp.com/channel/0029VaXRYlrKwqSMF7Tswi38"
 global.saluran = "https://whatsapp.com/channel/0029VaXRYlrKwqSMF7Tswi38"
 global.themeemoji = '🪀'
 global.wm = "Supun Fernando| bot wangsap gg"
-global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
+global.botscript = 'Dah gede nyari sc 🗿' //script link
 global.packname = "Sticker By"
 global.author = "\n\n\n\n\nCreate by Supun Fernando\nNo hape/wa : 94718461889"
-global.creator = "94718461889@s.whatsapp.net"
+global.creator = "94776860011@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
